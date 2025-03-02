@@ -94,17 +94,10 @@ Diseño e implementación de un asistente inteligente para la interacción con c
 - **Analítica de Marketing** (Univ. Sergio Arboleda)  
 - Mentoría y apoyo a estudiantes de posgrado en proyectos de Machine Learning y NLP.
 
-*(Si deseas incluir conferencias o charlas específicas, añádelas aquí.)*
-
----
-
-## Publications & Research
-*(Si tienes publicaciones, colócalas aquí; en tu CV indicas experiencia en investigación, pero no citas papers puntuales. Puedes usar este espacio para mencionar artículos o papers en proceso. De lo contrario, omite la sección.)*
-
 ---
 
 ## Multimedia & Blog
-- **Data Science Blog**: [Medium.com/@javierherrera](https://medium.com/@ejemplo)  
+- **Data Science Blog**: [Medium.com/@andreshebe96]([https://medium.com/@ejemplo](https://medium.com/@andreshebe96))  
   *(Cambia la URL si tienes un blog personal o en Medium.)*
 
 - **YouTube** *(opcional)*: Si tienes un canal o colaboraciones, enlázalo aquí.
