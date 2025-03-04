@@ -90,18 +90,15 @@ Diseño e implementación de un asistente inteligente para la interacción con c
 ---
 
 ## Teaching & Lectures
-- **Métodos Predictivos y Soluciones de Big Data** (Univ. Sergio Arboleda)  
+- **Métodos Predictivos** (Univ. Sergio Arboleda)  
+- **Exploracion de Datos** (Univ. Sergio Arboleda)  
 - **Analítica de Marketing** (Univ. Sergio Arboleda)  
-- Mentoría y apoyo a estudiantes de posgrado en proyectos de Machine Learning y NLP.
+- **Soluciones de Big Data** (Univ. Sergio Arboleda)
 
 ---
 
 ## Multimedia & Blog
-- **Data Science Blog**: [Medium.com/@andreshebe96]([https://medium.com/@ejemplo](https://medium.com/@andreshebe96))  
-  *(Cambia la URL si tienes un blog personal o en Medium.)*
-
-- **YouTube** *(opcional)*: Si tienes un canal o colaboraciones, enlázalo aquí.
-
+- **Data Science Blog**: [Medium.com/@andreshebe96]([https://medium.com/@andreshebe96](https://medium.com/@andreshebe96))  
 ---
 
 ## Contact Info
