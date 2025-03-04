@@ -98,7 +98,7 @@ Diseño e implementación de un asistente inteligente para la interacción con c
 ---
 
 ## Multimedia & Blog
-- **Data Science Blog**: [Medium.com/@andreshebe96]([https://medium.com/@andreshebe96](https://medium.com/@andreshebe96))  
+- **Data Science Blog**: [Medium.com/@andreshebe96](https://medium.com/@andreshebe96)
 ---
 
 ## Contact Info
